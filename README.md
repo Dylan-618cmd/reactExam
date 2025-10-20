@@ -1,5 +1,7 @@
 # React In-class Exam, October 2025
 
+Dylan Conway, 20106847
+
 ## 1. Setup instructions
 
 This repository contains the starting code for a lab-based React assessment. 
